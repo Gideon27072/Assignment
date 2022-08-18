@@ -1,7 +1,4 @@
-#crea
-from traceback import print_tb
-
-
+#create a students class
 class students:
     
     def __init__(self, first, last,student = []):
