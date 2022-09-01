@@ -18,7 +18,6 @@ class Bank_Account:
             print("net available balance=", self.balance)
     
     def display(self):
-<<<<<<< HEAD
         print("net available balance=", self.balance) 
         
 #create object class
