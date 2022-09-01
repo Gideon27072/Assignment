@@ -20,9 +20,6 @@ class Bank_Account:
     def display(self):
 <<<<<<< HEAD
         print("net available balance=", self.balance) 
-=======
-        print("net available balance=", self.balance)
->>>>>>> 8472afdb32d55ff2c83c927d4a3aed8716007f41
         
 #create object class
 Gideon_Account = Bank_Account()
@@ -30,8 +27,5 @@ Gideon_Account = Bank_Account()
 #functions with that class
 Gideon_Account.deposit()
 Gideon_Account.withdraw()
-<<<<<<< HEAD
 Gideon_Account.display()
-=======
 Gideon_Account.display()
->>>>>>> 8472afdb32d55ff2c83c927d4a3aed8716007f41
