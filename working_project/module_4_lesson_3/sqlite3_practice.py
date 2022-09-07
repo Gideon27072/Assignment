@@ -1,6 +1,6 @@
-import email
+# import sqlite3
 import sqlite3
-from traceback import print_tb
+
 print("import successful!")
 
 # connect to a database
